@@ -36,6 +36,11 @@ Any Public project is encouraged to include:
 
 ## Dataset
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 * KAM Weather Data Service 'Open MET Data Portal'
 * Ocean Observation - Sea Surface Temperature(SST) 
 * https://data.kma.go.kr/data/sea/selectBuoyRltmList.do?pgmNo=52
@@ -64,57 +69,14 @@ pip install tqdm ninja h5py kornia matplotlib pandas sklearn scipy seaborn wandb
 ## Citation
 
 ```bibtex
-@article{kim2023spatiotemporal,
-  title={Spatiotemporal graph neural network for multivariate multi-step ahead time-series forecasting of sea temperature},
-  author={Kim, Jinah and Kim, Taekyung and Ryu, Joon-Gyu and Kim, Jaeil},
-  journal={Engineering Applications of Artificial Intelligence},
-  volume={126},
-  pages={106854},
+@article{kim2023multi,
+  title={Multi-source deep data fusion and super-resolution for downscaling sea surface temperature guided by Generative Adversarial Network-based spatiotemporal dependency learning},
+  author={Kim, Jinah and Kim, Taekyung and Ryu, Joon-Gyu},
+  journal={International Journal of Applied Earth Observation and Geoinformation},
+  volume={119},
+  pages={103312},
   year={2023},
   publisher={Elsevier}
-}
-
-@article{zhang2021enhancing,
-  title={Enhancing Time Series Predictors with Generalized Extreme Value Loss},
-  author={Zhang, Mi and Ding, Daizong and Pan, Xudong and Yang, Min},
-  journal={IEEE Transactions on Knowledge and Data Engineering},
-  year={2021},
-  publisher={IEEE}
-}
-
-@article{kazemi2019time2vec,
-  title={Time2vec: Learning a vector representation of time},
-  author={Kazemi, Seyed Mehran and Goel, Rishab and Eghbali, Sepehr and Ramanan, Janahan and Sahota, Jaspreet and Thakur, Sanjay and Wu, Stella and Smyth, Cathal and Poupart, Pascal and Brubaker, Marcus},
-  journal={arXiv preprint arXiv:1907.05321},
-  year={2019}
-}
-
-@article{hochreiter1997long,
-  title={Long short-term memory},
-  author={Hochreiter, Sepp and Schmidhuber, J{\"u}rgen},
-  journal={Neural computation},
-  volume={9},
-  number={8},
-  pages={1735--1780},
-  year={1997},
-  publisher={MIT press}
-}
-
-@article{graves2012long,
-  title={Long short-term memory},
-  author={Graves, Alex and Graves, Alex},
-  journal={Supervised sequence labelling with recurrent neural networks},
-  pages={37--45},
-  year={2012},
-  publisher={Springer}
-}
-
-@article{vaswani2017attention,
-  title={Attention is all you need},
-  author={Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and Jones, Llion and Gomez, Aidan N and Kaiser, {\L}ukasz and Polosukhin, Illia},
-  journal={Advances in neural information processing systems},
-  volume={30},
-  year={2017}
 }
 ```
 
