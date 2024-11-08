@@ -63,7 +63,8 @@ pip install tqdm ninja h5py kornia matplotlib pandas sklearn scipy seaborn wandb
 
 ## Features
 
-- **Model:** Two models of LSTM and Transformer are applied to extreme value analysis. For the extreme value analysis, three methods of data transformation, Frechet and Gumbel extreme distribution loss (Zhang et al.,2021) are applied to two models.  
+- **Model:** Two models of Generator and Discriminator are defined for adversarial learning. A generator synthesizing downscaled global/peninsula SST data is obtained by minimizing WGAN-GP loss (Gulrajani et al.,2017) and MSE loss between model output and insitu data.
+- ![화면 캡처 2024-11-08 154414](https://github.com/user-attachments/assets/3bee283c-1948-4ccb-aa29-8c5a926cbbd9)
 - **Time-series:** 16 time series of sea surface temperature (SST) around the waters of Korea Peninsula are used and the data can be freely access through KAM Weather Data Service 'Open MET Data Portal'. 
 - **Gumbel Generalize Value Loss:** 4 cases of Gumbel distribution function according to the hyper parameter r are applied (r=1.0, 1.1, 1.5, 2.0). 
 - **Freceht Generalize Value Loss:** 4 cases of Frechet distribution function according to the hyper parameters of a and s are applied. (a=10 s=1.7, a=13 s=1.7, a=15 s=1.7, a=15 s=2.0)
@@ -80,6 +81,13 @@ pip install tqdm ninja h5py kornia matplotlib pandas sklearn scipy seaborn wandb
   pages={103312},
   year={2023},
   publisher={Elsevier}
+}
+@article{gulrajani2017improved,
+  title={Improved training of wasserstein gans},
+  author={Gulrajani, Ishaan and Ahmed, Faruk and Arjovsky, Martin and Dumoulin, Vincent and Courville, Aaron C},
+  journal={Advances in neural information processing systems},
+  volume={30},
+  year={2017}
 }
 ```
 
