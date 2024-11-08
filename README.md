@@ -4,6 +4,8 @@
 [[Supplementary](https://sstdv-project.github.io/template-project-page/static/pdfs/sample.pdf)]
 [[Project Page](https://sstdv-project.github.io/template-project-page/)]
 
+![image02](https://github.com/user-attachments/assets/d7e5190a-d1d8-462d-9a93-ad3108a7a4a9)
+
 ## Project directory structure
 ```
 .
@@ -36,7 +38,9 @@ Any Public project is encouraged to include:
 
 ## Dataset
 
-![화면 캡처 2024-11-08 152214](https://github.com/user-attachments/assets/8efeb005-8ed0-4d18-82a1-7918059f4c2d)
+![image04](https://github.com/user-attachments/assets/236073cf-669c-466c-9705-9db864a989e7)
+
+![image03](https://github.com/user-attachments/assets/0f73eee1-764b-4e7f-a5b8-4bad77452a3c)
 
 * KAM Weather Data Service 'Open MET Data Portal'
 * Ocean Observation - Sea Surface Temperature(SST) 
