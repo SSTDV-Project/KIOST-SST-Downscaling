@@ -36,10 +36,8 @@ Any Public project is encouraged to include:
 
 ## Dataset
 
-| Product  | Available period | Resolution | --- | Source | Agency |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Product  | Available period | Resolution | | Source | Agency |
+| | | Spatial | Temporal | | |
 
 * KAM Weather Data Service 'Open MET Data Portal'
 * Ocean Observation - Sea Surface Temperature(SST) 
