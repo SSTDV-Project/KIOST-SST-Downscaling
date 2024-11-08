@@ -36,8 +36,7 @@ Any Public project is encouraged to include:
 
 ## Dataset
 
-| Product  | Available period | Resolution | Temp | Source | Agency |
-| Temp | Temp | Spatial | Temporal | Temp | Temp |
+![화면 캡처 2024-11-08 152214](https://github.com/user-attachments/assets/8efeb005-8ed0-4d18-82a1-7918059f4c2d)
 
 * KAM Weather Data Service 'Open MET Data Portal'
 * Ocean Observation - Sea Surface Temperature(SST) 
