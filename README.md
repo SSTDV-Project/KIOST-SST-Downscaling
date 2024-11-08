@@ -4,7 +4,7 @@
 [[Supplementary](https://sstdv-project.github.io/template-project-page/static/pdfs/sample.pdf)]
 [[Project Page](https://sstdv-project.github.io/template-project-page/)]
 
-![image02](https://github.com/user-attachments/assets/d7e5190a-d1d8-462d-9a93-ad3108a7a4a9)
+![화면 캡처 2024-11-08 152601](https://github.com/user-attachments/assets/40393a73-2067-4971-b1a7-4349f8179b43)
 
 ## Project directory structure
 ```
