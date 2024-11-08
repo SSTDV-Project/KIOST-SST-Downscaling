@@ -36,7 +36,7 @@ Any Public project is encouraged to include:
 
 ## Dataset
 
-| First Header  | Second Header |
+| Product  | Available period | Resolution | --- | Source | Agency |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
