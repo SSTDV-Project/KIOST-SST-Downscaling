@@ -1,10 +1,15 @@
 # KIOST-SST-Downscaling
-===
-[[Preprint](https://sstdv-project.github.io/template-project-page/static/pdfs/sample.pdf)]
-[[Supplementary](https://sstdv-project.github.io/template-project-page/static/pdfs/sample.pdf)]
-[[Project Page](https://sstdv-project.github.io/template-project-page/)]
 
 ![화면 캡처 2024-11-08 152601](https://github.com/user-attachments/assets/40393a73-2067-4971-b1a7-4349f8179b43)
+
+## Overview
+This repository provides code and generated results for sea surface temperature (SST) downscaling using deep learning. The project focuses on generating high-resolution SST fields from lower-resolution ocean data, which can support coastal monitoring, marine environment analysis, and operational ocean forecasting.
+
+The implementation combines two research directions:
+
+* SST downscaling for converting coarse-resolution ocean fields into finer-resolution SST maps
+* Deep learning-based spatial reconstruction for enhancing regional and coastal SST patterns
+* A GAN-based model is used to generate high-resolution SST outputs from low-resolution input data
 
 ## Project directory structure
 ```
